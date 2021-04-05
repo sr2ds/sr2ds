@@ -6,3 +6,4 @@
 - 🤔 I’m looking for help with English Learning, conversation training, etc.
 - 💬 Ask me about Linux or any things of tech, I love tech world!
 
+My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
