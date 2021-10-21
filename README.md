@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Software engineer with projects made with PHP Laravel, NodeJS (Express/AdonisJs), VueJs, MySQL/MongoDB, CI/CD, Microservices and some more tools to make good web applications;
+- 🔭 I’m currently working as Software engineer with microservices made with PHP Laravel, NodeJS (Express/AdonisJs), VueJs, MySQL/MongoDB, CI/CD, Microservices and some more tools to make good web applications;
 - 🌱 I’m currently improving my English and learning `Rust Language`;
 - 👯 I’m looking to collaborate on projects made in `Rust Language`;
 - 🤔 I’m looking for help with English Learning, conversation training, etc;
