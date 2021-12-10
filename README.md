@@ -8,3 +8,10 @@
 Last but not least, I have a few years of experience as a linux network administrator and some leadership experience.
 
 My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
+
+Skills overview:
+
+Technical: PHP, Javascript, Rust, SQL, noSQL, web development (HTML, CSS, VueJs, React, JQuery), GitHub, data estructures, optimisation and performance, microservices applications, Redis, RabitMQ, Kubernetes, Docker, Docker Swarm, etc.
+
+Professional: code review, mentoring and coaching, software design, interviewing, tutorials, small group teaching, leading productive meetings, software engineering
+practices (tdd, documentation, CI, version control (Git), etc.), working with remote and distributed teams.
