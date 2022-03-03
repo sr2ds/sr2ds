@@ -9,6 +9,8 @@ Last but not least, I have a few years of experience as a linux network administ
 
 My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
 
+My dev.to profile with some posts: https://dev.to/sr2ds
+
 Skills overview:
 
 Technical: PHP, Javascript, Rust, SQL, noSQL, web development (HTML, CSS, VueJs, React, JQuery), GitHub, data estructures, optimisation and performance, microservices applications, Redis, RabitMQ, Kubernetes, Docker, Docker Swarm, etc.
