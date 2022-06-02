@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working as Software Engineer with microservices made with `PHP Laravel`, `NodeJS` (`Express`/`AdonisJs`), `VueJs`, `MySQL`/`MongoDB`, `CI`/`CD`, `TDD` with `Jest` and `PHPUnit`, `Kubernetes` and some more tools to make good web applications;
+- 🔭 I’m work as Software Engineer with microservices made with `PHP Laravel` (since 2016), `NodeJS` (`Express`/`AdonisJs`), `VueJs`, `MySQL`/`MongoDB`, `CI`/`CD`, `TDD` with `Jest` and `PHPUnit`, `Kubernetes` and some more tools to make good web applications;
 - 🌱 I’m currently improving my English and learning `Rust Language`;
 - 👯 On free times, I’m working on [fd-apps](https://github.com/fdapps-tools), my personal project to practice `Rust Language`, `NodeJs` and descentralization concepts;
 - 💬 Ask me about Linux, Rust, Node or any things of tech, I love tech world!
