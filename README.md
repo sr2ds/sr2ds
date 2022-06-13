@@ -28,5 +28,3 @@ practices (tdd, documentation, CI, version control (Git), etc.), working with re
 
 ## Wakatime last week
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sr2ds)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://stackexchange.com/users/5807904"><img src="https://stackexchange.com/users/flair/5807904.png" width="208" height="58" alt="perfil de David Silva no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de David Silva no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
