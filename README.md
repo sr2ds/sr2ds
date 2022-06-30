@@ -25,6 +25,3 @@ practices (tdd, documentation, CI, version control (Git), etc.), working with re
 
 ## Github streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sr2ds&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-## Wakatime last week
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sr2ds)](https://github.com/anuraghazra/github-readme-stats)
