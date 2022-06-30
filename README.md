@@ -5,7 +5,7 @@
 - 👯 On free times, I’m working on [fd-apps](https://github.com/fdapps-tools), my personal project to practice `Rust Language`, `NodeJs` and descentralization concepts;
 - 💬 Ask me about Linux, Rust, Node or any things of tech, I love tech world!
 
-Last but not least, I have a few years of experience as a linux network administrator and some leadership experience.
+Last but not least, I have a few years of experience as a linux network administrator (2011 - 2014) and some leadership experience.
 
 My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
 
