@@ -9,7 +9,7 @@ Last but not least, I have a few years of experience as a linux network administ
 
 My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
 
-My dev.to profile with some posts: https://dev.to/sr2ds
+Sometimes I write some articles and I'm moving my old article to this page: https://sr2ds.github.io/me/
 
 StackOverFlow profile:
 
