@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hi my friend 👋
 
-- 🔭 I’m work as Software Engineer focused in web applications, currently with `PHP` (`Laravel`)(since 2016) and `Python` (`fastAPI`).
+Welcome!
+
+- 🔭 I’m work as Software Engineer focused in web applications, currently with `PHP`/`Laravel`(since 2016) and `Python`/`fastAPI`;
 - 🌱 I’m currently improving my English and learning more `Python`;
 - 💬 Ask me about Linux, PHP, Rust, Node or any things of tech, I love tech world!
 
