@@ -8,14 +8,7 @@ I have some different experiences with other languages in my carrer, I already w
 
 Last but not least, I have a few years of experience as a Linux Network Administrator (2011 - 2014), then have a good prificiency with `command line`  and some `shell script`.
 
-My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
-
-Sometimes I write some articles and I'm moving my old article to this page: https://sr2ds.github.io/me/
-
-StackOverFlow profile:
-
-<a href="https://stackexchange.com/users/5807904"><img src="https://stackexchange.com/users/flair/5807904.png" width="208" height="58" alt="perfil de David Silva no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade" title="perfil de David Silva no Stack Exchange, uma rede gratuita de sites de perguntas e respostas orientadas &#224; comunidade"></a>
-
+[LinkedIn](https://www.linkedin.com/in/srdavidsilva/) | [Personal Blog](https://sr2ds.github.io/me/) | [StackOverflow](https://pt.stackoverflow.com/users/21836/david-silva)
 
 Skills overview - My tech words-life:
 
