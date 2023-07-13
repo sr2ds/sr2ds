@@ -1,11 +1,12 @@
 # Hi there 👋
 
-- 🔭 I’m work as Software Engineer with `PHP` (`Laravel`) (since 2016), `Node JS` (`Express`/`AdonisJs`), `VueJs`, `MySQL`/`MongoDB`, `CI`/`CD`, `TDD` with `Jest`, `Mocha` and `PHPUnit`, `Kubernetes` and some more tools to make good web applications;
-- 🌱 I’m currently improving my English and learning `Rust Language`;
-- 👯 On free times, I’m working on [fd-apps](https://github.com/fdapps-tools), my personal project to practice `Rust Language`, `NodeJs` and descentralization concepts;
-- 💬 Ask me about Linux, Rust, Node or any things of tech, I love tech world!
+- 🔭 I’m work as Software Engineer focused in web applications, currently with `PHP` (`Laravel`)(since 2016) and `Python` (`fastAPI`).
+- 🌱 I’m currently improving my English and learning more `Python`;
+- 💬 Ask me about Linux, PHP, Rust, Node or any things of tech, I love tech world!
 
-Last but not least, I have a few years of experience as a linux network administrator (2011 - 2014) and some leadership experience.
+I have some different experiences with other languages in my carrer, I already work with `Javascript` backend/frontend with `Express`/`AdonisJs` and `VueJs`, `MySQL`/`MongoDB`, `CI`/`CD`(`Jenkins` /`Azure Deveops`), `TDD` (`Jest`/`Mocha`/`PHPUnit`), `Kubernetes` and some more tools to make good web applications. And only for fun I studied `Rust` language and some low level.
+
+Last but not least, I have a few years of experience as a Linux Network Administrator (2011 - 2014), then have a good prificiency with `command line`  and some `shell script`.
 
 My profile on LinkedIn: https://www.linkedin.com/in/srdavidsilva/
 
@@ -18,7 +19,7 @@ StackOverFlow profile:
 
 Skills overview - My tech words-life:
 
-Technical: PHP, Javascript, Rust, SQL, noSQL, web development (HTML, CSS, VueJs, JQuery), GitHub, data estructures, optimisation and performance, microservices applications, Redis, RabitMQ, Kubernetes, Docker, Docker Swarm, Swagger API, OpenAPI, SDK builder, Azure Pipelines, AWS eco-system, etc.
+Technical: PHP, Javascript, Python, Rust, SQL, noSQL, web development (HTML, CSS, VueJs, JQuery), GitHub, data estructures, optimisation and performance, microservices applications, Redis, RabitMQ, Kubernetes, Docker, Docker Swarm, Swagger API, OpenAPI, SDK builder, Azure Pipelines, AWS eco-system, etc.
 
 Professional: code review, mentoring and coaching, software design, interviewing, tutorials, small group teaching, leading productive meetings, software engineering
 practices (tdd (I love it), documentation, CI, version control (Git), etc.), working with remote and distributed teams.
