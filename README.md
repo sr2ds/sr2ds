@@ -3,7 +3,7 @@
 Welcome!
 
 - 🔭 I’m work as Software Engineer focused in web applications, currently with `PHP`/`Laravel`(since 2016) and `Python`/`fastAPI`;
-- 🌱 I’m currently improving my English and learning more `Python`;
+- 🌱 Starting as an open-source developer with my personal static site management - [Coeur](https://github.com/sr2ds/coeur);
 - 💬 Ask me about Linux, PHP, Rust, Node or any things of tech, I love tech world!
 
 I have some different experiences with other languages in my carrer, I already work with `Javascript` backend/frontend with `Express`/`AdonisJs` and `VueJs`, `MySQL`/`MongoDB`, `CI`/`CD`(`Jenkins` /`Azure Deveops`), `TDD` (`Jest`/`Mocha`/`PHPUnit`), `Kubernetes` and some more tools to make good web applications. And only for fun I studied `Rust` language and some low level.
