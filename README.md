@@ -1,23 +1,79 @@
-# Hi my friend 👋
+## Hi, I'm David
 
-Welcome!
+I'm a **Software Engineer** with over a decade of experience in technology.
+I started my career working with **Linux servers and networks**, then moved into building and scaling web applications — while continuously exploring systems, security, tooling and software architecture out of genuine curiosity.
 
-- 🔭 I’m work as Software Engineer focused in web applications, currently with `PHP`/`Laravel`(since 2016) and `Python`/`fastAPI`;
-- 🌱 Starting as an open-source developer with my personal static site management - [Coeur](https://github.com/sr2ds/coeur);
-- 💬 Ask me about Linux, PHP, Rust, Node or any things of tech, I love tech world!
+Technology is both my profession and how I think.
 
-I have some different experiences with other languages in my carrer, I already work with `Javascript` backend/frontend with `Express`/`AdonisJs` and `VueJs`, `MySQL`/`MongoDB`, `CI`/`CD`(`Jenkins` /`Azure Deveops`), `TDD` (`Jest`/`Mocha`/`PHPUnit`), `Kubernetes` and some more tools to make good web applications. And only for fun I studied `Rust` language and some low level.
+---
 
-Last but not least, I have a few years of experience as a Linux Network Administrator (2011 - 2014), then have a good prificiency with `command line`  and some `shell script`.
+## About me
 
-[LinkedIn](https://www.linkedin.com/in/srdavidsilva/) | [Personal Blog](https://sr2ds.github.io/me/) | [StackOverflow](https://pt.stackoverflow.com/users/21836/david-silva)
+- Backend-focused Software Engineer
+- Strong background in Linux, infrastructure and operations
+- Security-aware mindset, influenced by offensive security studies
+- Curious by nature — I enjoy understanding how systems work and how they fail
 
-Skills overview - My tech words-life:
+---
 
-Technical: PHP, Javascript, Python, Rust, SQL, noSQL, web development (HTML, CSS, VueJs, JQuery), GitHub, data estructures, optimisation and performance, microservices applications, Redis, RabitMQ, Kubernetes, Docker, Docker Swarm, Swagger API, OpenAPI, SDK builder, Azure Pipelines, AWS eco-system, etc.
+## What I work with professionally
 
-Professional: code review, mentoring and coaching, software design, interviewing, tutorials, small group teaching, leading productive meetings, software engineering
-practices (tdd (I love it), documentation, CI, version control (Git), etc.), working with remote and distributed teams.
+- PHP / Laravel (since version 4.x)
+- Python (FastAPI, Airflow)
+- REST APIs and distributed systems
+- MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ
+- Docker, CI/CD pipelines, Kubernetes, cloud environments (AWS, Azure, DigitalOcean)
+- Automated testing and TDD practices
+- Monolithic and microservices architectures
 
-## Github streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sr2ds&theme=dark&hide_border=true)](https://git.io/streak-stats)
+---
+
+## Things I’ve built and explored
+
+- **[Coeur](https://github.com/sr2ds/coeur)** — a personal static site compiler designed to handle *large content-heavy websites*
+  - Built as a modular Python CLI
+  - Manual SQLite sharding to handle large datasets
+  - Memory-efficient processing using Python generators
+  - Focus on predictable performance and low resource usage
+
+- **Rust & WASM experiments**
+  - Study notes and experiments around Rust fundamentals and memory safety  
+    https://github.com/sr2ds/learning-rust
+  - Small WebAssembly experiments to understand Rust ↔ browser boundaries  
+    https://github.com/sr2ds/hello-world-rust-webassembly
+  - Exploring distributed networking concepts using Rust and JavaScript  
+    https://github.com/fdapps-tools/fd-rust
+
+- **Linux internals & networking**
+  - Shell scripting, system behavior, process and network-level understanding
+  - Background influenced by years of Linux server and network administration
+
+- **Pentesting labs & offensive security practice**
+  - Formal training in offensive security (4Linux)
+  - Hands-on labs using Hack The Box
+  - Focus on attack surfaces, misconfigurations and real-world failure modes
+  - Applied mainly to improve secure system design and code reviews
+
+- **Programming languages & abstraction trade-offs**
+  - Studying how different languages shape architecture, performance and maintainability
+
+---
+
+## Operational & process background
+
+Alongside engineering, I’ve studied and applied concepts related to **operational maturity and delivery**:
+
+- Project and operations management fundamentals (PMI)
+- IT service and process management (ITIL)
+- Governance and control frameworks (COBIT)
+- Agile methodologies (Scrum, Kanban)
+
+This helps me reason not only about code, but about systems, teams and delivery over time.
+
+---
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/srdavidsilva
+- Blog: https://sr2ds.github.io
+- GitHub: https://github.com/sr2ds
