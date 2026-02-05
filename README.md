@@ -75,5 +75,5 @@ This helps me reason not only about code, but about systems, teams and delivery 
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/srdavidsilva
-- Blog: https://sr2ds.github.io
+- Blog: https://sr2ds.github.io/me
 - GitHub: https://github.com/sr2ds
