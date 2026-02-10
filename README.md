@@ -14,7 +14,7 @@ Technology is both my profession and how I think.
 - Security-aware mindset, influenced by offensive security studies
 - Curious by nature — I enjoy understanding how systems work and how they fail
 - Languages: English for work+travel and French in progress to having fun
-- 
+
 ---
 
 ## What I work with professionally
